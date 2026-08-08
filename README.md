@@ -1,4 +1,3 @@
-<img width="973" height="505" alt="جد" src="https://github.com/user-attachments/assets/d60c61c3-bc7f-4367-967b-ddc4fde193ea" />
 # ROS 2 Humble Installation and Configuration Report on Ubuntu 22.04 (WSL2)
 
 ## 📌 Introduction
