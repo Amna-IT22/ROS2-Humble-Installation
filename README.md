@@ -1,3 +1,4 @@
+<img width="973" height="505" alt="جد" src="https://github.com/user-attachments/assets/d60c61c3-bc7f-4367-967b-ddc4fde193ea" />
 # ROS 2 Humble Installation and Configuration Report on Ubuntu 22.04 (WSL2)
 
 ## 📌 Introduction
@@ -66,6 +67,7 @@ With the repository successfully attached, a target system update was triggered 
   sudo apt install ros-humble-desktop --fix-missing -y
   ```
 <img width="983" height="512" alt="الاخير جديد" src="https://github.com/user-attachments/assets/0be8bb3b-6dd5-4664-8b6a-dc41d0f6ab7c" />
+<img width="973" height="505" alt="جد" src="https://github.com/user-attachments/assets/7574e539-521c-4987-8570-c4ed7b90ca1e" />
 
 ---
 
